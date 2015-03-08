@@ -1,6 +1,7 @@
 Repeat
 =========
 
+[![Latest Stable Version](https://poser.pugx.org/jamsouf/repeat/v/stable.svg)](https://packagist.org/packages/jamsouf/repeat)
 [![Build Status](https://travis-ci.org/jamsouf/composer-repeat.svg?branch=master)](https://travis-ci.org/jamsouf/composer-repeat)
 
 Repeat is a repeater utility for PHP / Composer.  
